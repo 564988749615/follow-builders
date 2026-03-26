@@ -31,22 +31,6 @@
       "channelHandle": "DataDrivenNYC"
     }
   ],
-  "blogs": [
-    {
-      "name": "Anthropic Engineering",
-      "type": "scrape",
-      "indexUrl": "https://www.anthropic.com/engineering",
-      "articleBaseUrl": "https://www.anthropic.com/engineering/",
-      "fetchMethod": "http"
-    },
-    {
-      "name": "Claude Blog",
-      "type": "scrape",
-      "indexUrl": "https://claude.com/blog",
-      "articleBaseUrl": "https://claude.com/blog/",
-      "fetchMethod": "http"
-    }
-  ],
   "x_accounts": [
     { "name": "Andrej Karpathy", "handle": "karpathy" },
     { "name": "Swyx", "handle": "swyx" },
@@ -72,6 +56,19 @@
     { "name": "Dan Shipper", "handle": "danshipper" },
     { "name": "Aditya Agarwal", "handle": "adityaag" },
     { "name": "Sam Altman", "handle": "sama" },
-    { "name": "Claude", "handle": "claudeai" }
+    { "name": "Claude", "handle": "claudeai" },
+    { "name": "Boris Cherny", "handle": "bcherny" },
+    { "name": "Aakash Gupta", "handle": "aakashgupta" },
+    { "name": "Carl Vellotti", "handle": "carlvellotti" },
+    { "name": "Theo", "handle": "theo" },
+    { "name": "Nick Dobos", "handle": "NickADobos" },
+    { "name": "godofprompt", "handle": "godofprompt" },
+    { "name": "ykdojo", "handle": "ykdojo" },
+    { "name": "Noah Hein", "handle": "TheNoahHein" },
+    { "name": "宝玉", "handle": "dotey" },
+    { "name": "劳伦斯", "handle": "LawrenceW_Zen" },
+    { "name": "鱼总聊AI", "handle": "AI_Jasonyu" },
+    { "name": "Yanhua", "handle": "yanhua1010" },
+    { "name": "向阳乔木", "handle": "vista8" }
   ]
 }
